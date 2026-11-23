@@ -1,0 +1,9 @@
+/build/
+/build-*/
+/tmp/
+*.o
+*.so
+*.a
+*.log
+*.lock
+.DS_Store

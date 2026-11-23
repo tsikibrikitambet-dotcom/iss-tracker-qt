@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/maps">
+    <file alias="world-map.svg">assets/world-map.svg</file>
+  </qresource>
+</RCC>
